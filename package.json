@@ -1,0 +1,29 @@
+{
+  "name": "post-app",
+  "version": "1.0.0",
+  "description": "Post, comment application with role base authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Typescript",
+    "Express",
+    "Node",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "senthurkumaran2014@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.7.3",
+    "nodemon": "^2.0.19",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
+}
